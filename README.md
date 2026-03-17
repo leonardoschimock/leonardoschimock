@@ -3,7 +3,7 @@
 
 <td width="40%" valign="top">
 
-<img src="/assets/images/devCatImage.jpg" width="100%">
+<img src="/assets/images/devCatImage.jpg" width="500" height = "1000">
 
 </td>
 
