@@ -3,7 +3,9 @@
 
 <td width="40%" valign="top">
 
-<img src="/assets/images/devCatImage.jpg" width="100%">
+<div align = "center">
+  <img src="/assets/images/devCatImage.jpg" width="100%">
+</div>
 
 </td>
 
