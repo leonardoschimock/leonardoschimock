@@ -11,13 +11,13 @@
 
 <td width="60%" valign="top">
 
-# Leonardo Schimock
+## Leonardo Schimock
 
 I am passionate about programming and technology, especially in areas like software development and data. I enjoy learning new tools and frameworks, improving my problem-solving skills, and building efficient solutions through code. I have a strong interest in Java and web development, and I am always looking for opportunities to grow as a developer and expand my knowledge in modern technologies.
 
 ---
 
-## Areas of Interest
+### Areas of Interest
 
 - Full-Stack Web Development
 - Artificial Intelligence and Machine Learning
@@ -27,7 +27,7 @@ I am passionate about programming and technology, especially in areas like softw
 
 ---
 
-## Technologies
+### Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
