@@ -3,7 +3,7 @@
 
 <td width="40%" valign="top">
 
-<img src="/assets/images/devCatImage.jpg" width="500" height = "1000">
+<img src="/assets/images/devCatImage.jpg" width="100%">
 
 </td>
 
@@ -18,7 +18,6 @@ I am passionate about programming and technology, especially in areas like softw
 ## Areas of Interest
 
 - Full-Stack Web Development
-- Java Backend Development
 - Artificial Intelligence and Machine Learning
 - Data Analysis and Data Engineering
 - Software Engineering and System Design
