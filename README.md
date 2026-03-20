@@ -19,10 +19,10 @@ I am passionate about programming and technology, especially in areas like softw
 
 ### Areas of Interest
 
-- Full-Stack Web Development
-- Artificial Intelligence and Machine Learning
+- **Full-Stack** Web Development
+- Artificial Intelligence and **Machine Learning**
 - Data Analysis and Data Engineering
-- Software Engineering and System Design
+- **Software Engineering** and System Design
 - Web Application Development with Modern Frameworks 
 
 ---
